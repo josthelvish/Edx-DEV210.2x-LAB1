@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Edx_DEV210_2x_LAB1.dir/main.cpp.o  -o Edx_DEV210_2x_LAB1 
