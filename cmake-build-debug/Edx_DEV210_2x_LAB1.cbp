@@ -8,86 +8,90 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Edx_DEV210_2x_LAB1">
-				<Option output="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Edx_DEV210_2x_LAB1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
+				<Option output="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Edx_DEV210_2x_LAB1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Edx_DEV210_2x_LAB1"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Edx_DEV210_2x_LAB1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Edx_DEV210_2x_LAB1/fast">
-				<Option output="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Edx_DEV210_2x_LAB1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
+				<Option output="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Edx_DEV210_2x_LAB1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Edx_DEV210_2x_LAB1/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Edx_DEV210_2x_LAB1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/main.cpp">
+		<Unit filename="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/Person.cpp">
 			<Option target="Edx_DEV210_2x_LAB1"/>
 		</Unit>
-		<Unit filename="/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/CMakeLists.txt">
+		<Unit filename="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/Person.h">
+			<Option target="Edx_DEV210_2x_LAB1"/>
+		</Unit>
+		<Unit filename="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/main.cpp">
+			<Option target="Edx_DEV210_2x_LAB1"/>
+		</Unit>
+		<Unit filename="C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

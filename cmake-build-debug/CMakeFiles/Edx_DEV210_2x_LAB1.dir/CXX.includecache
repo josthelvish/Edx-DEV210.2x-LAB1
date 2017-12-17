@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/Person.cpp
+Person.h
+C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/Person.h
+
+C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/Person.h
+iostream
+-
+
+C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/main.cpp
+iostream
+-
+Person.h
+C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/Person.h
+

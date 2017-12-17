@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/main.cpp" "/home/jsilva/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/CMakeFiles/Edx_DEV210_2x_LAB1.dir/main.cpp.o"
+  "C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/Person.cpp" "C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/CMakeFiles/Edx_DEV210_2x_LAB1.dir/Person.cpp.obj"
+  "C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/main.cpp" "C:/Users/Jose/Desktop/Projects/sandbox/Edx-DEV210.2x-LAB1/cmake-build-debug/CMakeFiles/Edx_DEV210_2x_LAB1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
